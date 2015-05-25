@@ -15,7 +15,7 @@ abstract: |
 
   Can be rendered to other formats as using [Pandoc](http://johnmacfarlane.net/pandoc/). To render to PDF with a table of contents use the following:
   
-  cd /home/arb/ownCloud/Nottingham/OSMGB/Git/OSMGB/Documents/2015_ServiceRessurection
+  cd /home/arb/ownCloud/Nottingham/OSMGB/Git/OSMGB/Documents/2015_ServiceResurrection
 
   pandoc -f markdown -t latex -N -V geometry:margin=1in  2015_OSMGB_Action.md --filter pandoc-citeproc --latex-engine=xelatex --toc -o 2015_OSMGB_Action.pdf
 
@@ -47,9 +47,10 @@ The bad news is the infrastructure is at risk (in terms of UoN operating policy)
 * All of the above will come at a cost
 
 In terms of on-going maintenance and management Amir and myself are not funded for our roles. Whilst we can provide time to manage the services we can not manage the environment. I have spoken to a number of people about moving the resposonsibility of the server environment (and their associated services) to others in the UoN (principally through Erin Snyder). This is, in theory, very possible. The University has recognised that supporting high impact services can go beyond project resposibility *and* can reflect positively on the university as an institution. We will need to provide a *case for support* which details evidence of:
-		* External demand
-		* Impact
-		* etc.
+
+* External demand
+* Impact
+* etc.
 
 General strategy would be as follows:
 
