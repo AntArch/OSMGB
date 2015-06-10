@@ -1,6 +1,6 @@
 ---
 title:  'OSMGB as  a service - a proposal'
-author: Anthony Beck, Amir Pourabdollah, Jeremy Morley
+author: Anthony Beck, Amir Pourabdollah, Jeremy Morley, Craig Place, Shaun Hindley
 layout: post
 category: OSMGB
 tags: OSM
@@ -67,6 +67,7 @@ Task list
 	* Shaun Hindley
 	* Ian Hill
 	* Others?
+	* A meeting was held
 * Funding requests
 	* Ordnance Survey - Jeremy Morley
 	* Mike Sanderson - 1Spatial
@@ -202,7 +203,7 @@ Ant and Amir will look after the operational maintenance. However, the server an
 1. The UoN takes ownership of the server and DBA maintenance at zero cost (as part of building a data analytics environment)
 	* This has potential but may take some time to implement
 1. The UoN is paid to manage this environment
-* Find out how much this would cost?
+	* Find out how much this would cost?
 
 ## Determining credit and impact (on-going)
 
