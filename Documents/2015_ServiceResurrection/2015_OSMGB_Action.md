@@ -67,7 +67,7 @@ Task list
 	* Shaun Hindley
 	* Ian Hill
 	* Others?
-	* A meeting was held
+	* [A meeting was held on 2015_06_08](https://github.com/AntArch/OSMGB/blob/master/Documents/2015_ServiceResurrection/2015_06_08_UoN_OSMGB_Hardware.md)
 * Funding requests
 	* Ordnance Survey - Jeremy Morley
 	* Mike Sanderson - 1Spatial
